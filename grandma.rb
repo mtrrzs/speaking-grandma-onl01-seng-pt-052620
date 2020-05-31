@@ -11,3 +11,9 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+
+
+if HELLO NANA == "Huh?! speak up, Sonny!".upcase
+elsif HELLO NANA == "NO, NOT SINCE 1938!".upcase
+else I LOVE YOU GRANDMA == "I love you too pumpkin!".upcase
+end
